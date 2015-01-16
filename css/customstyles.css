@@ -1,0 +1,18 @@
+body{
+	color:white;
+	background-image:url("../test.png");
+}
+.header{
+	font-size:90px;
+}
+.image{
+	border-style:solid; 
+	border-color:#000000;
+	border-width:5px; 
+	border-radius:5px;
+	height:370px;
+	width:340px;
+}
+.background2{
+		
+}
